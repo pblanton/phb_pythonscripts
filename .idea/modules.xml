@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/phb_pythonscripts..iml" filepath="$PROJECT_DIR$/.idea/phb_pythonscripts..iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/phb_pythonscripts.iml" filepath="$PROJECT_DIR$/.idea/phb_pythonscripts.iml" />
     </modules>
   </component>
 </project>

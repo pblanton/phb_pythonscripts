@@ -46,5 +46,5 @@ ignores them.
 to review. The keyword list is in the file and can be modified as needed.
 
 ```
--a, --all             Show hidden directories (default: hide them)
+-s, --security        Show security findings (default: hide them)
 ```
